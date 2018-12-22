@@ -1,3 +1,5 @@
+chmod +x E.pl
+chmod +x E.py
 python E.py > code.txt
 sed -e 's/true},/true}\n/g' code.txt > code_tmp.txt
 ./E.pl code_tmp.txt > course_tmp.txt

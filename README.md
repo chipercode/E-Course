@@ -1,0 +1,6 @@
+# E-Course
+eecourse list
+Python是把网页源代码拷贝出来
+perl从源代码中选出课程名称和课程列表
+shell文件是在顶部运行Python和perl，同时作简单排版
+得到的course.txt文件需要unicode转中文
